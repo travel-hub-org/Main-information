@@ -1,6 +1,6 @@
-# 🏎️ Go-Kart Organization — Contributor Guide
+# 🏎️ Golf Organization — Contributor Guide
 
-Welcome to the **Go-Kart racing organization website project**!  
+Welcome to the **Golf organization website project**!  
 This guide explains step by step how to work with our repositories.  
 We are building **5 HTML/CSS-only pages**, each in its own repository.
 
