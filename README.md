@@ -7,11 +7,11 @@ We are building **5 HTML/CSS-only pages**, each in its own repository.
 ---
 
 ## 📂 Repositories
-- `gokart-home` — landing page (hero, highlights, nav).  
-- `gokart-events` — upcoming race schedule & registration info.  
-- `gokart-results` — past results, leaderboards, tables.  
-- `gokart-about-team` — about the org, racers & staff profiles.  
-- `gokart-contact` — contact details and simple contact page.  
+- `golf-home` — landing page (hero, highlights, nav).  
+- `golf-events` — upcoming race schedule & registration info.  
+- `golf-membeership` — past results, leaderboards, tables.  
+- `golf-about-us` — about the org, racers & staff profiles.  
+- `golf-contact` — contact details and simple contact page.  
 
 ---
 
