@@ -1,6 +1,6 @@
-# 🏎️ Golf Organization — Contributor Guide
+# 🏎️ Evergreen Garden — Contributor Guide
 
-Welcome to the **Golf organization website project**!  
+Welcome to the **Evergreen Garden organization website project**!  
 This guide explains step by step how to work with our repositories.  
 We are building **5 HTML/CSS-only pages**, each in its own repository.
 
